@@ -1,7 +1,7 @@
 
-# AWS - EC2 Opspack
+# [DEPRECATED] AWS - EC2 Opspack
 
-Amazon Web Services (AWS) provides a massive array of cloud services to users across multiple territories. The cloud services provided by AWS incorporate everything from databases, servers and now even extend into artificial intelligence. 
+Amazon Web Services (AWS) provides a massive array of cloud services to users across multiple territories. The cloud services provided by AWS incorporate everything from databases, servers and now even extend into artificial intelligence.
 
 Users are attracted to the provider’s reliability, scalability and the potential cost-effective cloud computing services of a pay-per-usage basis. The main consensus behind the cloud movement is to allow you, the user, additional free up time to focus on your applications and business.
 
@@ -9,9 +9,9 @@ Users are attracted to the provider’s reliability, scalability and the potenti
 
 Opsview Monitor has multiple Opspacks available for AWS monitoring. Those currently available include packs for:
 
-EC2 (Elastic Compute Cloud) 
-ELB (Elastic Load Balancing) 
-RDS (Relational Database Service) 
+EC2 (Elastic Compute Cloud)
+ELB (Elastic Load Balancing)
+RDS (Relational Database Service)
 There are also checks for the online status of all the Amazon Web Services in all 12 of their operated geographical regions. In addition to deploying Opsview to the cloud, you can now monitor your cloud services.
 
 ## Service Checks
@@ -19,12 +19,12 @@ There are also checks for the online status of all the Amazon Web Services in al
 | Service Check | Description |
 |:--------------|:------------|
 |EC2 Instance CPU| Check CPU Utilization for Amazon EC2 Instance    |
-|EC2 Instance Disk Read Bytes | Check Disk Read Bytes for Amazon EC2 Instance|    
-|EC2 Instance Disk Read Ops| Check Disk Read Ops for Amazon EC2 Instance  |  
-|EC2 Instance Disk Write Bytes | Check Disk Writes in Bytes for Amazon EC2 Instance  |  
+|EC2 Instance Disk Read Bytes | Check Disk Read Bytes for Amazon EC2 Instance|
+|EC2 Instance Disk Read Ops| Check Disk Read Ops for Amazon EC2 Instance  |
+|EC2 Instance Disk Write Bytes | Check Disk Writes in Bytes for Amazon EC2 Instance  |
 |EC2 Instance Disk Write Ops | Check Disk Write Ops for Amazon EC2 Instance    |
 |EC2 Instance Network In | Check Network In for Amazon EC2 Instance    |
-|EC2 Instance Network Out | Check Network Out for Amazon EC2 Instance  | 
+|EC2 Instance Network Out | Check Network Out for Amazon EC2 Instance  |
 
 ## Setup and Configuration
 
