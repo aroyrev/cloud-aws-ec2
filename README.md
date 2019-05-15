@@ -1,4 +1,4 @@
-# AWS - EC2 Opspack
+# [DEPRECATED] AWS - EC2 Opspack
 
 Amazon Web Services (AWS) provides a massive array of cloud services to users across multiple territories. The cloud services provided by AWS incorporate everything from databases, servers and now even extend into artificial intelligence.
 
